@@ -21,3 +21,11 @@
     flex: 0 0 12em;
   }
 }
+
+.blue {
+  background-color: blue;
+}
+
+.image{
+  background-image: url("./images/fotos/u79.jpg");
+}
