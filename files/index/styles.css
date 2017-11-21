@@ -312,11 +312,11 @@
   width:590px;
   height:329px;
   background:inherit;
-  background-color:rgba(255, 204, 0, 1);
+  background-color:white;
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:yellow;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -640,11 +640,11 @@
   width:590px;
   height:329px;
   background:inherit;
-  background-color:rgba(255, 204, 0, 1);
+  background-color:white;
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:yellow;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1631,11 +1631,11 @@
   width:590px;
   height:347px;
   background:inherit;
-  background-color:rgba(255, 204, 0, 1);
+  background-color:white;
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:yellow;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1858,7 +1858,7 @@
   font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
   font-weight:400;
   font-style:normal;
-  color:#FFFFFF;
+  color:yellow;
 }
 #u68 {
   border-width:0px;
@@ -1897,7 +1897,7 @@
   font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
   font-weight:400;
   font-style:normal;
-  color:#FFFFFF;
+  color:yellow;
 }
 #u69 {
   border-width:0px;
