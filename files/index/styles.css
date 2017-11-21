@@ -53,11 +53,11 @@
   width:1180px;
   height:246px;
   background:inherit;
-  background-color:rgba(255, 204, 0, 1);
+  background-color:white;
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
+  border-color:yellow;
   border-radius:0px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
@@ -1733,7 +1733,7 @@
   width:279px;
   height:133px;
   background:inherit;
-  background-color:rgba(255, 204, 0, 1);
+  background-color:white;
   border:none;
   border-radius:0px;
   -moz-box-shadow:none;
